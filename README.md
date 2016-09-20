@@ -1,7 +1,7 @@
 
-# Notman Entrance Dashboard Prototype
+# Notman Hallway Dashboard Prototype
 
-This project contains only the front-end of the dashboard. It's intended to run full-screen on a vertical (1080x1920) screen.
+This project contains only the front-end of the dashboard. It's intended to run full-screen on 720p or 1080p display. This is based on the work done in the [Notman Entrance Dashboard Prototype ](https://github.com/maison-notman-house/notman-entrance-dashboard) project, with the intent of eventually reusing components in a common base.
 
 ## Screenshot
 
